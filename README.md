@@ -1,1 +1,4 @@
-# cl_st1_katherine
+# Corpus Linguistics - Study 1 - Katherine
+
+## Phase 0 - Information Gathering
+
