@@ -1,0 +1,313 @@
+>000002  
+>score = 127  
+>register = acad  
+>t003159
+
+# Measuring the Impact of Beliefs on Luxury Buying Behavior in an Emerging Market
+
+## Empirical Evidence from India
+
+Demand for luxury brands is increasing at a very fast pace in emerging markets like India. But very few quantitative studies have been conducted to explore the reasons behind this sudden surge in demand. Thus, the purpose of this paper is to understand the impact of beliefs on consumer buying behavior for luxury fashion brands in the Indian context employing theory of planned behavior and to develop a comprehensive understanding ***LOADED regarding motivating factors ***LOADED behind luxury goods consumption.
+
+**Design/methodology/approach** – Researcher-controlled sampling techniques were employed to collect data from actual users ***LOADED of luxury fashion brands in New Delhi. Statistical tests including confirmatory factor ***LOADED analysis and structural equation modeling were applied for data analysis.
+
+**Findings ***LOADED** – The findings ***LOADED show that all three beliefs – attitudinal belief, normative belief and control belief – were positively and significantly related to attitude, subjective norm and perceived behavioral control. NB was found to have a positive impact on PBC as well as actual consumer purchasing behavior for luxury fashion brands.
+
+**Originality/value** – This research contributes to the extant literature by bringing to light new findings ***LOADED that could help provide meaningful insights to the academicians and marketing ***LOADED practitioners.
+
+**Keywords:** India, Brands, Consumer behaviour, Fashion, Luxury, Theory of planned behaviour
+
+**Paper type:** Research paper
+
+## Introduction
+
+The overall personal luxury goods market grew to around € billion in at the rate of percent, while the real growth ***LOADED has slipped to - percent on account of global economic slowdown. Although, worldwide luxury goods market is sluggish, the Indian luxury market has been rapidly growing at percent per annum and estimated to reach $ . million. In fact, India is amongst the fastest growing luxury markets across the globe.
+
+Key factors ***LOADED leading to surge in demand for luxury brands in India include the burgeoning urban middle-class population which has a penchant for global luxury brands; the growing number of ultra-high net worth individuals [ ] and rise in the number of dollar millionaires who are estimated to grow by percent from, in to, by.
+
+Although, luxury market in India is in a nascent stage of development ***LOADED and it hardly contributes - percent of the global luxury market, still it is very lucrative for international luxury players and provides huge business opportunities for growth ***LOADED and expansion.
+
+Apart from traditional rich who are regular buyers ***LOADED and the rich professionals who are conscious spenders, there is a large untapped segment comprising businessmen with significant resources, but who do not have an eye to appreciate fine luxury brands due to lack of exposure, accessibility and brand awareness. This group is expected to soon become the largest consumer segment for luxury goods in India translating into monumental increase in demand for luxury brands.
+
+Various studies have been conducted to understand luxury purchase behavior in the western context. However, little efforts have been made in the past by both the researchers ***LOADED as well as marketers to understand luxury consumer behavior in the context of emerging economies like India due to the insignificant presence of luxury brands in these markets.
+
+But, in recent times with the increase in internet penetration, rise in number of HNIs, affluent millennials, informed consumers, independent youth, wide accessibility of luxury brands, mushrooming upper middle-class population and increase in purchasing power of consumers, the Indian luxury market has become very attractive for global luxury companies.
+
+Thus, a need existed to carry out a comprehensive study to systematically understand and analyze the key factors ***LOADED that affect PB of the Indian consumers with respect to luxury fashion brands.
+
+This study is organized as follows: it presents a review of literature followed by the conceptual framework and hypotheses development ***LOADED. The next section provides research methodology which highlights data collection ***LOADED and sampling techniques used. The following section mentions key findings ***LOADED of the study. Toward the end, implications and directions for future research work are presented.
+
+## Literature Review and Hypotheses Development ***LOADED
+
+The word "luxury" is derived from Latin word "luxuria" which means "extras of life". There is no universally recognized marketing ***LOADED definition of luxury goods in the literature. Many authors have worked in this area. Smith classified consumption into four groups: "necessary, basic, affluence and luxury." Different people may perceive different things as luxury.
+
+According to Kapferer, "[ … ] luxury defines beauty; it is art applied to functional items [ … ] luxury items provide extra pleasure and flatter all senses at once [ … ]." In the literature, researchers ***LOADED have often used "luxury" to illustrate the most prestigious brands. Consumers achieve supremacy and prominence by consuming these goods and the term coined was "conspicuous consumption". Luxury brands bestow respect and satisfy their owner ***LOADED's hedonic and utilitarian wants.
+
+## Factors ***LOADED Behind Luxury Goods Consumption
+
+Studies in luxury consumer behavior reflect both social as well as personal orientation results in the consumption of luxury goods. The acquisition of luxury goods brings esteem to the user ***LOADED, other than providing functional value.
+
+Luxury goods consumption is motivated by interpersonal effect, namely, "Veblen, snob and bandwagon effect" and personal effects, namely, "hedonic and perfectionism effects".
+
+Table I presents some of the recent studies that have focused on understanding the determinants of luxury purchase intention for fashion brands. Jain et al. in their conceptual study concluded that cultural orientation, intrinsic factors ***LOADED, extrinsic factors ***LOADED and resources lead to luxury brand, purchase intention.
+
+Zhang and Kim revealed that brand consciousness, social comparison and fashion innovativeness have deep influence on Chinese consumers' luxury goods consumption. However, a qualitative study performed by Amatulli and Guido observed that inner motivation and quality value are the key determinants for luxury purchase intention in Italian market.
+
+Park et al. found that materialism, conformity, need for uniqueness and social recognition are factors ***LOADED driving luxury purchase intention among the Korean consumers.
+
+## Theory of Reasoned Action and Theory of Planned Behavior
+
+The theoretical foundations of present study rest on TRA suggested by Fishbein and Ajzen and Ajzen and Fishbein as well as the TPB proposed by Ajzen.
+
+In fact, Ajzen felt the need to add perceived behavioral control variable to the existing two variables – attitude toward behavior and subjective norm – in order to deal with the non-volitional situations.
+
+According to TPB, human behavior is influenced by three beliefs, namely, attitudinal belief, normative beliefs and control beliefs. Attitudinal beliefs cause favorable or unfavorable attitude toward the behavior, NB produce perceived social pressures and control beliefs cause PBC.
+
+In turn, attitude, SN and PBC lead to behavioral intention which further results in actual PB. TPB posits that an individual intends to perform a behavior when s/he evaluates it positively, when s/he experiences social pressure to perform it and when s/he believes to have means to do it.
+
+These theories have played a crucial role in providing deep understanding ***LOADED of both personal and social factors ***LOADED when applied to various consumer behavior studies.
+
+## Table I. Review of Factors ***LOADED Behind Luxury Purchase Intention
+
+| Citation | Focus of study | Outcome | Type of study |
+|---|---|---|---|
+| Jain et al. | To understand factors ***LOADED affecting luxury purchase intention | Cultural orientation, intrinsic factors ***LOADED, extrinsic factors ***LOADED and resources leads to luxury purchase intention | Conceptual |
+| Zhang and Kim | To understand factors ***LOADED influencing Chinese consumers' purchase intention for luxury fashion brands | Brand consciousness, social comparison and fashion innovativeness have significant impact on luxury goods consumption | Empirical |
+| Li et al. | To understand Chinese consumer behavior in context of luxury fashion brands | Affective attitude, functional and social value leads to luxury purchase intention | Empirical |
+| Zhan and He | To investigate motivations for luxury consumptions among Chinese consumers | Value consciousness and susceptibility to normative influence are divers of luxury consumption | Empirical |
+| Hung et al. | To determine antecedents of luxury brand purchase intention among Chinese consumers | Social influence, experiential value, functional value and vanity leads to luxury goods consumption | Empirical |
+| Amatulli and Guido | To Determine factors ***LOADED leading to luxury purchase intention in Italian market | Inner motives and quality value are main drivers for luxury purchase intention | Qualitative |
+| Park et al. | To identify factors ***LOADED determining luxury purchase intention among the Korean consumers | Materialism, conformity, need for uniqueness, social recognition are positively related to luxury purchase intention | Empirical |
+
+**Source:** Authors' analysis
+
+## Attitudinal Beliefs
+
+Attitudes are cognitive, affective and behavioral. The cognitive base for attitude formation assumes that beliefs and attitudes are formed through the process of reasoning. In contrast, the affective or behavioral base for attitude formation gives eminence to stimuli-response mechanisms.
+
+A person's attitude represents his personal convictions and feelings ***LOADED toward the behavior of interest. An individual who believes that performing a specific behavior will result in positive outcome will have a favorable attitude toward performing that behavior.
+
+The beliefs underlying attitude toward the behavior are termed as "attitudinal beliefs." In other words, beliefs about the presence of factors ***LOADED which may facilitate or impede performance ***LOADED of behavior are referred as "behavioral beliefs" or "attitudinal beliefs".
+
+According to TRA attitude takes into consideration the beliefs about the consequences of performing the behavior and of the evaluation of these consequences, as depicted in the following equation:
+```
+plain text
+Aact ¼ Xn i¼ BiEi
+```
+Various studies have confirmed that cognitive belief is a significant predictor of attitude. Attitude toward luxury brands has important influence on buyers ***LOADED' intentions to purchase luxury brands. Yoo and Lee found that consumers' positive attitude toward purchasing counterfeits has a significant impact on their purchase intention.
+
+Several other researchers ***LOADED have indicated that in the consumer decision-making process, behavioral intention is directly related to attitude.
+
+Hence, the hypotheses posited in this study are as follows:
+
+**H.** Attitudinal belief has a significant, direct and positive impact on attitude in relation to purchase of luxury fashion brands by consumers in India.
+
+**H.** Attitude has a significant, direct and positive impact on purchase intention for luxury fashion brands by consumers in India.
+
+## NB
+
+SNs are the individual's perception of the social pressures for or against performing the behavior. SNs may put pressure regarding performance ***LOADED or non-performance of behavior in question, independent of an individual's own attitude toward the given behavior.
+
+The different influencers involved in the SNs could be family, friends and colleagues. The beliefs underlying SNs are known as "NB." They help in the prediction of SNs, intention and behavior.
+
+SNs are examined by NB and motivation to comply with the beliefs, as shown in the following equation:
+```
+plain text
+SN ¼ Xn j¼ NBjMCj
+```
+SN has been found to be positively related to Chinese consumers' luxury purchase intention. Various other studies have shown a significant relationship ***LOADED between SN and purchase intention.
+
+Hence, the hypotheses posited in this study are as follows:
+
+**H.** NB has a significant, direct and positive impact on SN in relation to purchase of luxury fashion brands by consumers in India.
+
+**H.** SN has a significant, direct and positive impact on purchase intention for luxury fashion brands by consumers in India.
+
+## Control Belief
+
+PBC is defined as, "an individual's perception of the ease or difficulty in performing the behavior of interest, given the presence or absence of requisite resources and opportunities".
+
+PBC is evaluated by total set of control beliefs, that is, beliefs about existence of factors ***LOADED that may promote or hinder performance ***LOADED of behavior. Particularly, the influence of each control belief is weighted by the perceived power of the control factor ***LOADED, as depicted in the following equation:
+```
+plain text
+PBC ¼ pXn i¼ CiPi
+```
+Ling concluded that PBC is a key factor ***LOADED in determining purchase intention of luxury consumers in China. Numerous studies have confirmed that PBC is a predictor of purchase intention.
+
+Hence, the hypotheses posited in this study are as follows:
+
+**H.** Control belief has a significant, direct and positive impact on PBC in relation to purchase of luxury fashion brands by consumers in India.
+
+**H a.** PBC has a significant, direct and positive impact on purchase intention for luxury fashion brands by consumers in India.
+
+**H b.** PBC has a significant, direct and positive impact on purchase of luxury fashion brands by consumers in India.
+
+## Behavioral Intention
+
+Behavioral intention is defined as, "the perception of an individual toward performance ***LOADED of a particular behavior". When behavior is under a person's control, intention can predict actual behavior with significant accuracy.
+
+But, intention and behavior may not be perfectly correlated. There pertains strong biasness regarding overestimating the probability of doing desired behavior and underestimating the probability of not doing undesired behavior. This may result in variability between intention and the actual behavior.
+
+In case where time interval between the intention and the behavior is less, they may be highly correlated. In the past, studies have found purchase intention as an antecedent of actual PB.
+
+Hence, the hypothesis posited in this study is as follows:
+
+**H.** Purchase intention has a significant, direct and positive impact on purchase of luxury fashion brands by consumers in India.
+
+## Conceptual Framework
+
+The growing demand for luxury has made it imperative for luxury brand managers and academicians to understand the motivators behind luxury goods consumption in the Indian context.
+
+But, so far, no quantitative study has been conducted to understand the impact of beliefs on consumer PB for luxury fashion brands in India, specifically, employing TPB. This study is an effort in the direction of addressing ***LOADED this gap in the literature.
+
+This study tries to determine the applicability and validity of TPB in explaining consumer behavior with respect to purchase of luxury fashion brands in an emerging market like India. It also suggests a behavioral framework to help practitioners as well as marketers better understand, analyze and explain consumer buying behavior for luxury fashion brands by consumers in India.
+
+## Methodology and Measurement ***LOADED
+
+### Data Collection ***LOADED
+
+Based on the extensive review of literature and practical insights, survey method was considered the most appropriate for the collection ***LOADED of data for the present study. Further, survey method is best suited to understand the relationship ***LOADED between variables such as beliefs, attitude, purchase intention.
+
+The study questionnaire was divided into two sections: Section A comprised screening questions as well as those pertaining to beliefs, attitude, intention, etc. which have been considered in the TPB model; and the questions in Section B were designed to generate demographic profile of subjects.
+
+As recommended in the previous studies, screening question was employed to identify actual users ***LOADED of luxury fashion brands by requesting them to share names of luxury fashion brands owned by them.
+
+The researcher-controlled sampling technique used in the present study has been employed in numerous extant studies in luxury domain giving valid and reliable results. A total of questionnaires were administered, of which valid responses were obtained through mall intercept surveys; while responses were generated using online version of the instrument.
+
+t-test yielded insignificant differences between offline and online responses. Thus, the data obtained through these two modes of administration were similar and responses could be analyzed collectively.
+
+Very few studies in the past have used actual luxury brand consumers as study sample. Personal interviews were conducted with patrons of luxury who were enrolled for various programs at a leading fashion institute located in New Delhi. Data were also generated from actual users ***LOADED of luxury brands visiting "Emporio Mall," also located at New Delhi.
+
+This high end mall is a popular destination for luxury patrons. An online version of questionnaire was developed and hosted on Google Docs and the patrons of luxury brands were approached while shopping ***LOADED at "Emporio Mall" and requested to provide feedback using paper and pencil version of the questionnaire.
+
+However, owing to paucity of time few respondents ***LOADED expressed inability to respond immediately but promised to provide feedback to the online version of the instrument. The willing patrons of luxury consented to share their e-mail IDs and subsequently the online version of questionnaire hosted on Google docs was e-mailed to them as a link with the request to provide feedback.
+
+In addition ***LOADED, some of the respondents ***LOADED were persuaded to share contact details of family members and friends, who regularly shopped for luxury fashion brands. Later, they too were contacted via e-mail through these referrals and link to the online version of questionnaire was mailed.
+
+These measures helped in generating quality responses from actual patrons of luxury fashion brands. Of the total respondents ***LOADED, around percent were males and remaining percent were females. Majority of the respondents ***LOADED were young, ranging between age group of and.
+
+Post graduates constituted around percent of the sample, and around three-fourth of the total respondents ***LOADED had annual income greater than US$, . Therefore, it can be safely concluded that educated affluent millennials are the major buyers ***LOADED of luxury fashion brands in India. These results are in line with the findings ***LOADED of earlier studies.
+
+### Scale Development ***LOADED
+
+Measurement ***LOADED scales for this study were developed in line with suggestions by Francis et al., Ajzen and inputs from earlier studies on the subject. First, face validity and content validity were assessed, then pilot study was conducted and scales were refined based on suggestions of experts and feedback from respondents ***LOADED. Thereafter, final data were collected from actual buyers ***LOADED of luxury fashion brands.
+
+For all variables other than attitude and PBC, a five-point Likert scale ranging from strongly disagree to strongly agree was used. PB was measured by the scales developed by Schlegelmilchet et al. and Dubois et al. An additional ***LOADED item "I would mostly buy luxury goods for myself" was included based on suggestions of expert panel.
+
+Purchase intention was measured by the scales developed by Madden et al., Ajzen and Fishbein and Bian and Forsythe. Attitude was measured by three items generated from the studies of Ling, Fitzmaurice and Madden et al. using a seven-point semantic differential scale.
+
+SN was measured by four items generated from the studies of Ajzen and fishbein, Ling and Fitzmaurice. The scale to measure PBC comprised four items borrowed from Francis et al. and Shim et al.; two items were assessed on a five-point Likert scale and remaining items were analyzed using a seven-point semantic differential scale.
+
+In the present research, all five motivations of luxury goods, namely: quality value, social value, conspicuous value, hedonic value and uniqueness value as prescribed by Vigneron and Johnson were examined to measure attitudinal beliefs.
+
+Conspicuous value scale comprised four items from Truong et al. and Ling. Four items related to uniqueness value were derived from the studies by Ling and Tian et al. Social value scale included four items from Li et al. and Smith and Colgate.
+
+To measure a hedonic value, measurement ***LOADED items were adopted from scales suggested by Spangenberg et al., Tsai, Smith and Colgate and Babin et al. Quality value was measured by items developed by Tsai and Mathwick et al. Each of the five beliefs about purchasing luxury fashion brands was evaluated using established scales.
+
+Conspicuous value was evaluated by items developed by Marcoux et al. Unique value and social value were measured employing scales developed by Ling. A hedonic value and quality value were obtained using scales developed by Smith and Colgate, Mathwick et al. and Tsai.
+
+The scale items for measuring NB and motivation to comply were adopted from the work by Ajzen and Fishbein. Three items each for measuring control beliefs and the perceived power suggested by Ling were also included in the research instrument.
+
+## Results
+
+### Measurement ***LOADED Model, Reliability and Validity
+
+Confirmatory factor ***LOADED analysis was performed to test the measurement ***LOADED model. The results showed acceptable fit to the data, with χ ¼ ., degrees of freedom ¼, normed χ ¼ ., AGFI ¼ ., CFI ¼ ., IFI ¼ . and RMSEA ¼ .. All the values were within the acceptable range as recommended by Hair et al.
+
+The convergent validity of the measurement ***LOADED model was tested by assessing the statistical significance of the factor ***LOADED loadings, AVE and construct reliability. As demonstrated in Table II, after deleting two items from attitudinal belief and one item each from SN, PBC and PB, overall fit statistics of the measurement ***LOADED model containing manifest indicators for eight latent constructs was within the acceptable range as suggested by Fornell and Larcker and Hair et al.
+
+To check the discriminant validity, values of AVE and squared correlation of constructs were compared for each pair of constructs. As shown in Table III, this criterion was met as no correlation exceeds the square root of the average variance extracted.
+
+### Structural Model Test
+
+In the present study, structural equation modeling was applied to test the conceptual model and proposed hypotheses using AMOS version and maximum likelihood estimates.
+
+The result of initial SEM test did not result in a good model fit to the data. Some of these values were not within the acceptable range as recommended by Hair et al.
+
+Figure presents the modified TPB model. The analysis revealed good model fit as all the values were within the acceptable range suggested by Hair et al.
+
+Based on the results obtained from the modification indices the following paths were added a directed path from NB to PB, a directed path from NB to PBC, and a directed path from attitudinal beliefs to SN. These relationships ***LOADED were also observed in other studies.
+
+As shown in Table IV, attitudinal belief had a positive and significant association with attitude toward luxury behavior and SN. H and H were thus supported. NB was positively and significantly related with SN as well as PBC and PB. Therefore, H, H and H were supported.
+
+Control belief also showed a positive and significant relationship ***LOADED with PBC. Therefore, H was also supported. Attitude and SN both showed a significant and positive impact on luxury purchase intention. Therefore, H and H were both supported.
+
+In contrast, statistically significant relationship ***LOADED did not emerge between PBC and purchase intention since pW .. Therefore, H a was not supported. However, PBC was positively and significantly related with actual PB of consumers. Thus, H b was supported.
+
+Purchase intention was found to be having a positive but insignificant relationship ***LOADED with PB as pW .. Therefore, H was not supported. Figure presents revised framework based on empirical evidence and theory.
+
+The modified model resulted in three additional ***LOADED hypotheses which are mentioned below. The data supported all these hypotheses:
+
+**H.** Attitudinal belief has a significant, direct and positive impact on SN in relation to purchase of luxury fashion brands by consumers in India.
+
+**H.** NB has a significant, direct and positive impact on PBC in relation to purchase of luxury fashion brands by consumers in India.
+
+**H.** NB has a significant, direct and positive impact on actual PB toward luxury fashion brands by consumers in India.
+
+## Discussion and Findings ***LOADED
+
+This study provides comprehensive understanding ***LOADED regarding the impact of beliefs on the Indian consumers' purchasing behavior for luxury fashion brands.
+
+The study revealed that TPB model suggested by Ajzen did not satisfactorily explain consumer behavior with respect to luxury fashion brands in the context of the Indian market. However, when the TPB model was modified based upon the statistical inferences as well as suggestions of earlier researchers ***LOADED such as Ling, it could successfully predict PB toward luxury brands of the Indian consumers.
+
+The results obtained through SEM confirmed that all three beliefs – attitudinal belief, NB and control belief – were positively and significantly related with attitude, SN and PBC. These results were in line with the TPB model and similar results were obtained in earlier studies too.
+
+Results indicate that positive attitudinal belief toward purchasing luxury goods leads to positive attitude toward purchase of luxury goods. Similarly, social support from friends, family and colleagues regarding their purchase of luxury goods leads to a positive SN. The results also indicate that favorable control belief leads to positive PBC.
+
+Attitudinal belief about purchasing luxury fashion goods was found to be an antecedent of not only attitude but also SN. NB showed a positive and significant relationship ***LOADED with PBC. These findings ***LOADED suggest that individuals backed with social support extended by friends, family and colleagues perceive greater control on purchasing luxury fashion goods. These results are consistent with the findings ***LOADED of the earlier studies.
+
+Present research also revealed that NB can have a direct influence on actual PB which signifies that consumers with social support can directly decide to buy luxury goods without the mediating role of SN and purchase intention. Thus, it can be concluded that "significant others" play an important role in luxury buying behavior of the Indian consumers. It can have a direct bearing on purchase of luxury goods.
+
+These results find support in the findings ***LOADED of earlier researchers ***LOADED that collectivists emphasize on group affiliation and public reputation. Results of this study reflect that both attitude and SN are the direct predictors of purchase intention. These results are in line with various studies conducted in the past.
+
+In contrast, weak relationship ***LOADED was found between PBC and purchase intention. Similar results emerged in other studies. PBC was found to have a direct, positive and significant relationship ***LOADED with actual PB showing that consumers having resources and opportunities may directly buy luxury fashion brands without having the mediating role of intent. These results find support in previous studies by Ajzen and Madden et al.
+
+Few studies in the past have concluded that purchase intention may not accurately predict PB. This study also found insignificant relationship ***LOADED between purchase intention and PB reflecting intent to buy luxury brands among the Indian consumers. However, since these brands are exorbitantly priced, they may not be able to actually purchase them.
+
+## Implications
+
+### Practical Implications
+
+This study provides valuable implications for international luxury brands wishing to penetrate and expand in expanding the Indian market. It helps to explore the unique luxury buying behavior of affluent the Indian consumers and the driving force behind their purchase decisions.
+
+Modified TPB model suggested in this study provides new and deeper insights. It reveals that NB has a direct impact on the Indian consumers' actual PB toward luxury goods. The social support from friends, family and colleagues was found to be a major trigger leading to purchase of luxury brands by Indians.
+
+Further, India being a collectivist society, reference ***LOADED groups play a critical role in consumer decision-making process. This finding ***LOADED has significant implications for marketers. By emphasizing on the importance of reference ***LOADED groups in advertising campaigns, marketers can convey the influence of NB and SN on target group.
+
+Marketing ***LOADED managers can segment the luxury market based on the social, personal, psychographic and behavioral variables and target the consumers effectively depending upon values they are looking for in these brands. Varied communication strategies need to be devised for different target groups.
+
+Marketers can decide on strategies that embrace the fact that positive word of mouth can have a viral effect on the Indian consumer. In fact, the use of such interpersonal channels can result in significant gains for luxury companies.
+
+To convert potential customers into actual buyers ***LOADED, marketers need to work on developing favorable attitude toward luxury brands through promotional activity in fashion events and exhibitions, fashion magazines, luxury malls, etc.
+
+They can also use appropriate online platforms dealing in luxury products such as blogs, Facebook, Twitter; YouTube, etc. to promote these brands because of growing acceptance of these means of communication among affluent class in India.
+
+In India, Bollywood stars too have a deep impact on consumers' mind set. Therefore, they can be roped in by luxury brands for endorsing their products and thus create a yearning for these brands.
+
+This study also reveals an insignificant relationship ***LOADED between purchase intention and actual luxury PB. Marketers need to introduce entry-level luxury brands and emphasize on affordable luxury so that the large middle-class population which aspires to buy luxury brands can turn their dreams into reality.
+
+The present study demonstrates that luxury buyers ***LOADED in India are young, upwardly mobile, well-educated and high-earning individuals. Females were found to be dominating the Indian luxury scene. Therefore, luxury retailers should develop appropriate strategies and embrace tactical moves to garner the attention of this audience so that they continue to make future purchases and become brand loyal.
+
+While designing communication strategies they can target the "independent" female consumer who makes her own decisions and lives life to the fullest.
+
+### Theoretical Implications
+
+The present research contributes significantly to the existing body of knowledge ***LOADED. Although, theoretical underpinnings of the present work have been widely applied in a cross-national context to explain varied consumer behavior but so far no study had been carried out to explore the impact of beliefs on luxury buying behavior in, the Indian context.
+
+Based on the findings ***LOADED of the present study, TPB model stands modified to better predict luxury buyer ***LOADED behavior in India. This research also contributes to the extant literature through new findings ***LOADED that would help provide meaningful insights to the academicians and practitioners alike.
+
+Findings ***LOADED reveal that NB has a direct and significant effect on actual purchase of luxury fashion goods by the Indian consumers. It was also found that attitudinal belief is positively correlated with SN and that purchase intention is not a predictor of actual PB among Indians.
+
+While these findings ***LOADED need to be further validated in future studies, the present study does provide sound empirical evidence in support of results.
+
+## Limitations and Directions for Future Research
+
+The few limitations of the study provide directions for future research. The present work is limited in scope since the samples were derived from single geographic region, that is, New Delhi the capital city of India. Therefore, results obtained from this study need to be generalized with caution.
+
+Future research may be conducted with a more representative sample including luxury consumers from other metro cities of India, as a first step.
+
+At present the penetration of luxury in India is miniscule. Therefore, a sample size of was considered appropriate. But, in future, with the rapid increase in number of people consuming luxury brands, research may be undertaken with a larger and more representative sample to better understand consumer behavior for luxury fashion brands in India.
+
+Present research explored new relationships ***LOADED in the context of TPB model which can be validated by future researchers ***LOADED in this field.
+
+**Note.** Text highlighted in red indicates the changes made in the research paper as per the reviewers' suggestions.
