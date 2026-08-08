@@ -1,12 +1,11 @@
-# 000003
-score = 61
-register = tvsh
-tvsh
-<tv show/>
-< tvsh_2004_antmS03E02_0012/>
+>000003
+>score = 61
+>register = tvsh
+>t005449
 
+<tv show - tvsh_2004_antmS03E02_0012/>
 
-t005449  Previously , on " America 's Next Top Model " . Semi-finalists from 
+Previously , on " America 's Next Top Model " . Semi-finalists from
 across the country flew to Los Angeles to pursue their dream . You guys ready 
 to become stars ? - Yes . They were put to the test in grueling interviews . So 
 why are you here ? - Latinos have n't been represented . We met Magdalena , who 

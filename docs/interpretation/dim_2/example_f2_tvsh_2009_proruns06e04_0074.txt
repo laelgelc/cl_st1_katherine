@@ -1,11 +1,12 @@
-# 000001
-score = 63
-register = tvsh
-tvsh <tv shows/>
-< tvsh_2009_proruns06e04_0074/>
+>000001
+>score = 63
+>register = tvsh
+>t005479
+
+<tv show - tvsh_2009_proruns06e04_0074/>
 <link to watch: https://www.youtube.com/watch?v=P1_F6uDzBiU />
 
-t005479  Previously on Project Runway ***LOADED  ... You will be working in 
+Previously on Project Runway ***LOADED  ... You will be working in
 teams of two . - I 'm gonna choose Epperson . - Ah . I 'd like to work with 
 Ra'mon . We have to understand each other . I do n't have nothing else to say . 
 I 'm good . I do n't know what the judges ' take is gonna be , but if I gotta 

@@ -1,11 +1,11 @@
-# 000002
-score = 62
-register = tvsh
-tvsh <tv shows/>
-< tvsh_2010_rupaulss02e02_0122/>
-<não encontrei link para assistir no youtube, mas tem em streaming/>
+>000002
+>score = 62
+>register = tvsh
+>t005541
 
-t005541  - Previously on " All Stars , " I will not be eliminating any queens 
+<tv show - tvsh_2010_rupaulss02e02_0122/>
+
+Previously on " All Stars , " I will not be eliminating any queens
 this season . - What ? - What ? - This season , you 'll be eliminating each 
 other . The winner ***LOADED  of the lip sync will eliminate one of the bottom 
 queens . - That was a choice . - We 're gonna make love to the clap tonight - 
