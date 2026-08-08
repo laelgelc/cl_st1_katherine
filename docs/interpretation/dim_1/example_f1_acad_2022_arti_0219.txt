@@ -1,0 +1,669 @@
+acad_2022_arti_0219
+< E-store brand personality
+congruence for multichannel
+apparel retail brands/>
+
+# 000003
+score = 125
+register = acad
+acad
+
+t003377  Introduction Today 's consumers are multichannel shoppers ***LOADED  
+and frequently exposed to the same retailer from multiple channels , which 
+makes them expect consistent shopping ***LOADED  experiences from the retailer 
+across all channels . Consumers ' perceptions and behaviors toward the brand in 
+one channel can be affected by their experiences and perceptions from another 
+channel . E-stores are particularly instrumental for consumers ' purchase 
+decisions . E-commerce sales accounted for . % of all retail sales worldwide in 
+and have seen incessant growths for the last decade with growths of – % every 
+year in the US , while US total retail sales annual growths have remained at – 
+% during the same period . More than % of US shoppers ***LOADED  conduct online 
+research before they buy products , and an average shopper ***LOADED  visits an 
+e-store . times before making a purchase . Therefore , e-stores play critical 
+roles in building , reinforcing and extending a retailer 's brand image , which 
+highlights the importance of integrated management ***LOADED  between a 
+retailer 's existing brand image and its estore image . Nevertheless , few 
+researchers ***LOADED  have examined how the congruence/incongruence E-store 
+brand personality ***LOADED  congruence between a retail brand 's existing 
+brand image and its e-store image may impact consumers ' response , a gap 
+addressed in this study . The integrated marketing ***LOADED  communication 
+paradigm postulates that all forms of marketing ***LOADED  communication , 
+regardless of the channel or media used , must be managed ***LOADED  to 
+integrate and interact with each other in order to maximize the brand value . 
+In line with the IMC concept , integrating diverse retail formats and 
+maintaining an integrated concept by delivering a consistent brand image across 
+channels is one of the critical challenges faced by multichannel retailers . 
+Brand image consists of both functional and symbolic image dimensions , and 
+both symbolic and functional image congruence is significant for a successful 
+multichannel branding . However , existing channel integration research has 
+weighed in the functional integration , such as integrations in management 
+***LOADED  of the inventory , supply chain , or customer service ; whereas the 
+issue of cross-channel symbolic image integration has been rarely investigated 
+in spite of its significant influence to produce positive consumer responses . 
+Therefore , this study will focus on the cross-channel integration from the 
+symbolic image management ***LOADED  perspective to fill the aforementioned 
+literature gap by examining the role of e-store brand personality ***LOADED  
+congruence/incongruence in the overall image fit between the brand and the 
+estore and its resultant effect on consumers ' patronage intention . 
+Specifically , we chose personality ***LOADED  as a critical symbolic brand 
+image dimension to focus on in this study . Brand personality ***LOADED  refers 
+to the brand 's human-like traits and has been known to play an important role 
+in consumers ' symbolic use of brand image . The personality ***LOADED  
+perspective also has long been applied in the retail context as store 
+personality ***LOADED  and e-store personality ***LOADED  as a critical 
+symbolic image factor to drive consumers ' patronage behaviors , such as 
+repeated shopping ***LOADED  at the store/e-store , spending time in the 
+store/e-store and spreading a positive word-of-mouth . Hence , this study 
+examines how the incongruence between a multichannel retailer 's brand 
+personality ***LOADED  and e-store personality ***LOADED  influences consumers 
+' perceived e-store brand fit , or subjective global judgment of the overall 
+fit of the estore image with the retail brand 's image , and how this overall 
+fit perception leads to the consumer 's e-store patronage intention . Much 
+literature on image congruence has been devoted to self-congruence effects , 
+which refer to consumers ' behaving favorably toward a brand or a store that 
+they perceive to be congruent with their self-image and thus is relevant to 
+themselves . The self-congruence literature suggests that even if consumers 
+perceive that a multichannel retailer 's e-store well represents the retailer 
+'s brand image , they are not likely to shop at the e-store if the retail brand 
+is perceived to be irrelevant to them to begin with . Further , cognitive 
+psychology theories , such as the elaboration likelihood model , suggest that 
+the personal relevance of a communication positively drives how critically 
+individuals process information in the communication , leading to more 
+issue-relevant attitudinal or behavioral responses to the communication . 
+Therefore , this study examines the potential moderating role of the retail 
+brand 's self-relevance to the consumer in altering the relationship between 
+consumers ' perceived e-store brand fit and e-store patronage intention . We 
+used vertically-integrated multichannel apparel specialty retailers which sell 
+only their own private label apparel products as the context of this study 
+because symbolic congruence is of particular importance in apparel shopping 
+***LOADED  given the highly experiential and expressive nature of the product . 
+Further , by using vertically-integrated specialty retailers , we avoided 
+potential confounding effects of the interaction between the product brand 
+image and the retail brand image . , Literature review and hypotheses Brand 
+personality ***LOADED  and e-store personality ***LOADED  Brand image refers to 
+a consumer 's perception of a brand reflecting diverse associations about the 
+brand held in the consumer 's memory , encompassing product- or 
+non-productrelated attributes and functional or symbolic benefits 
+characterizing the brand . Brand image has a strong connection ***LOADED  to 
+the consumer decision-making process . Among many types of brand associations , 
+consumers often associate brands with symbolic meanings ***LOADED  beyond 
+tangible benefits of product features or performance . A large part of the 
+symbolic brand associations constituting a brand 's image is linked to user 
+***LOADED  imagery . The user ***LOADED  imagery leads consumers to view the 
+brand as if it were a person and associate the brand with brand personality 
+***LOADED  , or a " set of human characteristics " . Brand personality 
+***LOADED  has been extensively examined as a symbolic brand image dimension 
+because of its pivotal role in driving consumer decision making . Similarly , 
+store image refers to an overall impression of a store as perceived by a 
+consumer . Martineau described store image as " the way in which the store is 
+defined in the shoppers ***LOADED  ' mind , partly by its functional qualities 
+and partly by an aura of psychological attributes " . Between functional and 
+psychological aspects of a store image , Martineau argued that the 
+subjectively-judged psychological image , or store personality ***LOADED  , may 
+have a greater impact on shoppers ***LOADED  ' responses . Just as brand 
+personality ***LOADED  addresses human-like traits of a brand , store 
+personality ***LOADED  also consists of human-like characteristics that 
+consumers perceive a store possesses . The concepts of store personality 
+***LOADED  and brand personality ***LOADED  have been expanded to the online 
+context . For example , Okazaki examined online brand personalities ***LOADED  
+of e-stores of American brands in five countries and found that many brand 
+personality ***LOADED  dimensions that were previously identified for offline 
+contexts were applicable to online contexts . Other researchers ***LOADED  have 
+also confirmed the applicability of traditional brand personality ***LOADED  
+dimensions to measure website personality ***LOADED  across different cultures 
+or the applicability of store personality ***LOADED  dimensions to e-store 
+personality ***LOADED  . Therefore , extending the concept of store personality 
+***LOADED  to e-store contexts , e-store personality ***LOADED  is defined in 
+this study as the human-like characteristics of an e-store perceived by 
+consumers . E-store personality ***LOADED  has been found to impact online 
+consumers ' perceptions and purchase intention with respect to the e-store . 
+E-store brand image congruence/incongruence Image congruence refers to how 
+congruent the images of two entities are with each other . In this study , two 
+variables , perceived e-store brand fit and e-store brand personality ***LOADED 
+ congruence , are conceptualized in the context of e-store brand image 
+congruence . These two variables differ both conceptually and operationally . 
+First , conceptually , e-store brand personality ***LOADED  congruence captures 
+image congruence only in the personality ***LOADED  aspect . Personality 
+***LOADED  is a type of symbolic brand associations constituting the brand 's 
+and the e-store 's images . On the other hand , perceived e-store brand fit 
+reflects the holistic image congruence from the similarity between the overall 
+brand image , which encompasses all functional or symbolic brand associations 
+and the e-store image , or the overall impression of the e-store encompassing 
+the functional and symbolic E-store brand personality ***LOADED  congruence 
+attributes of the e-store and Martineau discussed earlier ) . Second , 
+operationally , in this study , the direct approach is used to assess e-store 
+brand fit , whereas e-store brand personality ***LOADED  congruence is measured 
+using the indirect approach , based on the direct and indirect approaches to 
+measuring image congruence frequently used in past studies . The direct 
+approach operationalizes image congruence as the holistic assessment by 
+directly asking respondents to indicate how congruent the two images are . On 
+the other hand , the indirect approach to the operationalization of image 
+congruence entails first separately measuring the images of each entity , from 
+which a discrepancy between the two image scores is estimated indirectly ; a 
+lower incongruence score would indicate higher image congruence . E-store brand 
+personality ***LOADED  congruence/incongruence From the perspective of the IMC 
+paradigm , Keller emphasized the importance of strategic selection ***LOADED  
+and design of online marketing ***LOADED  options that match communication 
+options in other channels . In the same vein , Rubinstein and Griffiths argued 
+two factors for online branding success : " integrating all the expression of 
+the brand " and " delivering a consistent brand experience " , which correspond 
+to the symbolic and functional congruence , respectively . Kwon and Lennon 
+provided empirical support for this argument through their finding ***LOADED  
+that retailers ' offline and online brand images had reciprocal influences on 
+each other ; specifically , consumers ' brand beliefs and attitudes in one 
+channel were affected by their experience from the other channel . Further , Da 
+Silva and Syed Alwi argued that the symbolic cross-channel brand image 
+consistency relating to intangible and emotional values may provide a more 
+sustainable competitive advantage than does the functional integration across 
+channels . Despite the importance of the intangible symbolic image congruence 
+in multichannel retail branding , most existing literature on channel 
+integration has been mainly focused on operational integration . For instance , 
+researchers ***LOADED  rather stressed utilitarian integration in tangible 
+attributes of the retailer , such as merchandise accessibility , product 
+availability , customer service , product quality , price , privacy and 
+security . They tended to leave out the symbolic integration of brand image , 
+such as the esthetic impression of the e-store design that matches its brand 
+personality ***LOADED  despite the key role of symbolic brand image consistency 
+in successful branding . Addressing this gap , we identify personality 
+***LOADED  as a symbolic image dimension applicable to both a multichannel 
+retailer 's brand and e-store and define e-store brand personality ***LOADED  
+congruence as the degree to which the personality ***LOADED  a consumer 
+perceives from a multichannel retailer 's e-store is similar to the brand 
+personality ***LOADED  that the consumer associates with the retailer based on 
+his or her prior experience . Adopting an indirect approach to measure e-store 
+brand personality ***LOADED  congruence , we used e-store brand incongruence as 
+our variable name to match it with the discrepancy operationalization through 
+the indirect method . Perceived e-store brand fit Perceived fit refers to 
+consumers ' holistic perception of the similarity , connectedness , or 
+compatibility between two objects . The role of perceived fit in marketing 
+***LOADED  has been extensively investigated in brand extension literature . 
+Brand extension is defined as the use of an existing brand name for a new 
+product in order to facilitate entering new product categories or new market 
+segments . , Perceived fit between the parent brand and the extension has been 
+known to play a critical role in the success of a brand extension strategy . In 
+this study , perceived e-store brand fit is defined as a consumer 's subjective 
+global judgment of how well an apparel retail brand 's e-store reflects the 
+brand . Offline retailers ' expansion to the Internet is analogous to a product 
+brand 's extension into another product category . Just as product brand 
+extensions use existing familiar name of their parent brands to take advantage 
+of their halo effect to foster trust in new products , offline retailers have 
+expanded to the Internet under the same retailer name that they have used 
+offline in order to leverage positive existing brand images to reduce consumers 
+' perceived risk and enhance trust in their online stores and save the costs of 
+establishing new store concepts or images on the Internet . Perceived brand fit 
+may be formed based on both functional and symbolic images of the entities . 
+Thus , consumers ' perceived e-store brand fit may be influenced both by how 
+similar the e-store 's concrete , functional characteristics are to the 
+functional attributes and benefits consumers associate with the brand and by 
+how congruent the abstract , symbolic characteristics of the e-store are with 
+the symbolic image of the brand . Therefore , perceived e-store brand fit can 
+be regarded as the overall e-store brand image congruence encompassing both 
+functional and symbolic image congruencies . Arslan and Altuna stressed that 
+consumers tended to evaluate the brand positively through the perception of fit 
+based on the product-level similarity as well as based on the unique image 
+associations with various attributes and benefits offered by the brand . 
+Similarly , Eren-Erdogmus et al. identified factors influencing perceived fit , 
+such as consumer personality ***LOADED  , brand attitude and consumer values , 
+including functional , hedonic and symbolic values . Among them , symbolic 
+value is one of the necessary antecedents to form the perception of fit and the 
+most significant driver of successful branding . Given this literature , it is 
+feasible that the congruence between a retailer 's brand personality ***LOADED  
+and e-store personality ***LOADED  , which constitutes large parts of the 
+retailer 's symbolic values , positively influences consumers ' perceived 
+overall fit of the e-store to the brand . d'Astous and Levesque also support 
+this view by stressing that that the overall brand image consists of functional 
+and symbolic brand image aspects , and personality ***LOADED  , as a symbolic 
+image , does not substitute but complements the overall image . Therefore , the 
+following hypothesis is proposed : H . The greater the e-store brand 
+personality ***LOADED  incongruence , the lower the perceived e-store brand fit 
+. E-store patronage intention E-store patronage intention represents consumers 
+' willingness to engage in diverse favorable behaviors toward an e-store , 
+encompassing shopping ***LOADED  at the e-store , spending time in it and 
+recommending it to other consumers . Therefore , how perceived e-store brand 
+perceived fit influences consumers ' patronage intention toward the brand 's 
+e-store bears an important strategic meaning ***LOADED  . Perceived fit has 
+been found to be a significant predictor of consumer responses to a product 
+extension . For instance , a poor perceived fit between an extension and its 
+parent brand can hurt consumers ' favorable associations or attitudes toward 
+the parent brand and transfer undesirable or harmful messages to the extension 
+. A low perceived fit between a parent brand and an extension can lead 
+consumers to question the purpose of the E-store brand personality ***LOADED  
+congruence extension ; whereas a high perceived fit generates consumers ' 
+favorable behavioral responses toward the extension , including increased 
+purchase intention . Given the analogy between brand extensions and retailers ' 
+multichannel expansions , the aforementioned findings ***LOADED  on the 
+brand-extension fit lend support for a prediction that perceived e-store brand 
+fit has a positive influence on consumers ' intention to patronize the e-store 
+, as in the following hypothesis : H . The greater the perceived e-store brand 
+fit , the greater the e-store patronage intention . As previously discussed , 
+perceived e-store brand fit captures consumers ' global perception of the fit 
+between the brand and its e-store and thus encompasses all possible aspects 
+consumers use to compare the brand and its e-store . On the other hand , 
+e-store brand personality ***LOADED  congruence/incongruence reflects the 
+similarity/difference between the brand and the e-store specific to the 
+personality ***LOADED  dimension of symbolic images . Hence , we predict that 
+the holistic perceived e-store brand fit is likely to be a more direct 
+predictor of consumers ' e-store patronage intention than the e-store brand 
+personality ***LOADED  incongruence operationalized as the difference between 
+the brand and its e-store that is computed only in terms of personality 
+***LOADED  . In other words , a multichannel retailer 's e-store brand 
+personality ***LOADED  incongruence is likely to impact consumers ' patronage 
+intention toward the e-store indirectly through influencing the consumers ' 
+perceived e-store brand fit . The following hypothesis reflects this prediction 
+: H . Consumers ' perceived e-store brand fit mediates the influence of the 
+e-store brand personality ***LOADED  incongruence on e-store patronage 
+intention . Self-relevance of the retail brand The self-relevance of the retail 
+brand refers to the extent to which consumers perceive a retail brand to be 
+personally relevant to themselves and meet their needs/wants . Personal 
+relevance has been known as a key motivator for thoughtful information 
+processing . The elaboration likelihood model postulates that people process a 
+communication with varying levels of elaboration , or extent of cognitive 
+efforts exerted to think about issues in the message . People sometimes 
+carefully process issues in a given communication , while other times they may 
+pay little attention to them . A plethora of the literature has proposed and 
+empirically demonstrated personal relevance as a positive motivator of 
+elaboration . That is , when the message is perceived to be relevant to them , 
+people tend to evaluate them with more critical eyes . As a result , 
+elaboration levels impact persuasive outcomes in that individuals ' response to 
+a communication tends to be better in line with issue-relevant judgment in the 
+high-elaboration , central-route processing mode than in the low-elaboration , 
+peripheral-route processing mode . For example , in the context of 
+celebrityendorsement based brand advertising , Malodia et al. found that the 
+more involved the consumer was with the brand , the greater the impact of how 
+well the celebrity reinforced the brand personality ***LOADED  on the consumer 
+'s brand attitude . Based on this theoretical and empirical literature , it is 
+plausible that when shopping ***LOADED  in a multichannel apparel retail brand 
+'s e-store , consumers who feel the brand is highly relevant to them would be 
+more likely to scrutinize the e-store brand fit and thus be more profoundly 
+affected by this fit judgment in forming their e-store patronage intention as 
+compared to consumers who find the brand irrelevant to them . No matter how 
+well the e-store fits the retailer 's brand image , if consumers think that the 
+retailer does not offer the types of products they want or welcome the type of 
+consumers they are , and thus is not relevant to them , the e-store brand fit 
+will not matter to them . Hence , we predict the moderating role of the 
+consumer 's perceived self-relevance of the retail brand for , the relationship 
+between perceived e-store brand fit and e-store patronage intention as follows 
+: H . The relationship between perceived e-store brand fit and e-store 
+patronage intention is greater among consumers who perceive a high level of 
+self-relevance of the retail brand . Methods Sample and procedure An online 
+survey was conducted with a US national sample of female online clothing 
+shoppers ***LOADED  , recruited from a market research firm 's consumer panel . 
+Only a female sample was recruited for the gender consistency between the 
+sample and the target market of the brands used in this study because two of 
+the six brands used in this study were considered targeting only female 
+consumers . Moreover , researchers ***LOADED  have shown that fashion brands ' 
+symbolic image is of a higher value to women than to men , which further 
+justifies the use of a female sample . On the questionnaire , respondents were 
+first asked to complete the brand personality ***LOADED  and brand 
+self-relevance measures for an apparel retail brand randomly assigned to them 
+among six brands selected for this study .We used multiple brands , instead of 
+a single brand , as the contexts in which respondents completed the survey to 
+enhance the generalizability through stimulus sampling . Random assignments of 
+participants ***LOADED  to the brands were expected to help avoid bias in the 
+sample-brand groupings while generating a sufficient variance in the relevance 
+of the brand to the participant ***LOADED  . The six brands were selected 
+through a content analysis of over apparel brands and their e-stores . In the 
+open-coding process , two coders coded the apparel brands in terms of the 
+visual merchandising cues used by the e-stores to convey symbolic e-store 
+images and the functional features of the e-store . Then , the researchers 
+***LOADED  conducted an axial coding process by integrating the open codes to 
+identify potential types of symbolic images conveyed by the estores , which 
+informed our selection ***LOADED  of the six brands . Care was taken to select 
+brands that represented diverse types of symbolic e-store images . After 
+completing the brand personality ***LOADED  and self-relevance measures , 
+respondents were given a link to their assigned apparel brand 's e-store . 
+Respondents were asked to browse the e-store to select a pair of pants that 
+they would like to buy for themselves , return to the survey website and enter 
+the item number or name of the pants that they selected . This process ensured 
+that respondents had a chance to browse their assigned e-store and form an 
+impression of the e-store 's image including its personality ***LOADED  . 
+Following the e-store browsing task , respondents filled out the remaining 
+questionnaire including measures for e-store personality ***LOADED  , perceived 
+e-store brand fit , e-store patronage intention and demographic items . The 
+mean age of the respondents was . years old . The sample size was similar 
+across the six brands . Most respondents had at least some college education , 
+were non-Hispanic White and came from a household with incomes that ranged 
+between $ , and $ , . Instruments Self-relevance of the retail brand was 
+measured with five self-relevance sub-scale items adapted from Kwon and Lennon 
+'s offline brand belief scale . Perceived e-store brand fit E-store brand 
+personality ***LOADED  congruence was measured by three Likert-scale items 
+inspired by Becker-Olsen and Hill 's perceived fit scale . Becker-Olsen and 
+Hill used a semantic differential scale including seven pairs of bipolar 
+adjectives or phrases to measure perceived fit between a brand and its 
+sponsorship program . In this study , three of their items were selected and 
+modified in declarative statements that clearly communicate the e-store brand 
+fit context used in this study while preserving the fit concepts captured in 
+the original items . To measure e-store patronage intention , we used seven 
+items in a Likert scale format including four new items and three items 
+modified from previous studies . The self-relevance , perceived e-store brand 
+fit and e-store patronage intention items were all rated using a -point scale . 
+Each of brand personality ***LOADED  and e-store personality ***LOADED  was 
+measured using a scale adapted from d'Astous and Levesque 's store personality 
+***LOADED  scale . The validity and reliability of this scale have been 
+established in past research in both offline and online store contexts . The 
+original scale consists of pairs of bipolar adjectives describing five store 
+personality ***LOADED  dimensions including enthusiasm , sophistication , 
+genuineness , solidity and unpleasantness . In this study , the personality 
+***LOADED  adjectives were modified into a sentence format to fit the brand and 
+e-store personality ***LOADED  contexts and were rated on a -point Likert scale 
+ranging from to . Results Preliminary analyses Since this study adapted 
+d'Astous and Levesque 's store personality ***LOADED  scale with significant 
+modifications to measure personality ***LOADED  in the two contexts , we first 
+conducted exploratory factor analysis for each of the contexts , using 
+principal components analysis with varimax rotation and then compared the brand 
+and e-store EFA results to identify a common factor structure applicable to 
+both contexts . As a result of the initial EFA , five items , which 
+cross-loaded on multiple factors or loaded on different factors for the brand 
+and e-store contexts were eliminated . The final EFA Variable Items 
+Self-relevance of the retail brand I enjoy shopping ***LOADED  in this brand 's 
+stores I like the way this brand 's clothes look on me This brand appeals to 
+people like me I like this brand 's clothes I shop at this brand 's stores 
+often Perceived e-store brand fit The impression of this website is similar to 
+the brand 's image The impression of this website is consistent with the brand 
+'s image This website represents the brand 's image very well E-store patronage 
+intention The likelihood that I would make a purchase at this website in the 
+future is very high I would be willing to purchase from this website I would 
+recommend this website to my friend I would spend more time than planned at 
+this website I would visit this website again I intend to shop at this website 
+in the future In the future , this website would be one of the first places I 
+would look when I need to find clothing items Table . Measurements ***LOADED  : 
+self-relevance , perceived e-store brand fit and e-store patronage intention , 
+with the remaining items revealed a consistent four-factor structure for both 
+contexts . The four factors were labeled as enthusiasm , sophistication , 
+genuineness and unpleasantness , following the original dimension names from 
+d'Astous and Levesque . Confirmatory factor analysis was then run with the 
+finalized -item , -factor model , which revealed a good fit for both brand 
+personality ***LOADED  and e-store personality ***LOADED  . The average 
+variance extracted and composite reliability estimates were greater than . for 
+all four personality ***LOADED  factors for both brands and e-stores , which 
+indicated the convergent validity of the factors . The AVE estimates were 
+greater than all of the squared factor correlations for both the brand and 
+e-store contexts , which suggests the discriminant validity among the 
+personality ***LOADED  factors . All four factors showed acceptable reliability 
+for both the brand and e-store data . The six brands ' brand personality 
+***LOADED  and e-store personality ***LOADED  factor mean scores revealed 
+variabilities within and across the brands . For example , Talbots was 
+perceived to be the most enthusiastic but the least sophisticated brand among 
+the six brands , whereas Burberry was perceived to be the least enthusiastic 
+but the most sophisticated brand . The brand and e-store personality ***LOADED  
+scores tended to trend together but were not exactly identical , suggesting the 
+ecological validity of the e-store brand personality ***LOADED  incongruence 
+construct . For example , although Burberry was the most sophisticated brand , 
+its e-store was perceived to be less sophisticated than Michael Kors ' . To 
+operationalize e-store brand personality ***LOADED  incongruence based on the 
+e-store personality ***LOADED  and brand personality ***LOADED  scores , the 
+absolute difference between the respondent 's average brand personality 
+***LOADED  factor score and e-store personality ***LOADED  factor score was 
+computed in each of Component and itema,b Brand personality ***LOADED  E-store 
+personality ***LOADED  Loading AVE CR Cronbach 's α Loading AVE CR Cronbach 's 
+α Enthusiasm . . . . . . Enthusiastic . . Dynamic . . Lively . . Sophistication 
+. . . . . . High class . . Elegant . . Genuineness . . . . . . Sincere . . 
+Solid . . Honest . . Reliable . . Hardy . . Trustful . . Welcoming . . 
+Unpleasantness . . . . . . Irritating . . Superficial . . Annoying . . Note : a 
+All item wordings began with " this brand is " and " this website is " for the 
+brand personality ***LOADED  and estore personality ***LOADED  , respectively , 
+followed by the adjectives listed here ; b The five items eliminated from the 
+final measurement ***LOADED  as a result of the EFA include " [ This brand is , 
+This website is ] reputable , " " stylish , " " chic , " " loud , " and " 
+thriving " Table . CFA results : brand personality ***LOADED  and e-store 
+personality ***LOADED  E-store brand personality ***LOADED  congruence Brand 
+Brand personalitya E-store personalitya E-store brand personality ***LOADED  
+incongruencea Perceived e-store brand fit E-store patronage intention 
+ESGUESGUESGU Abercrombie e Fitch . . . . . . . . . . . . . . Gap . . . . . . . 
+. . . . . . . Coldwater creek . . . . . . . . . . . . . . Talbots . . . . . . . 
+. . . . . . . Michael Kors . . . . . . . . . . . . . . Burberry . . . . . . . . 
+. . . . . . Total . . . . . . . . . . . . . . Note : aE Enthusiasm , S 
+Sophistication , G Genuineness , U Unpleasantness Table . Factor mean scores , 
+the four personality ***LOADED  dimensions , following the indirect approach to 
+measure image incongruence frequently used in the literature . For example , 
+each respondent 's incongruence in the enthusiasm dimension was calculated by 
+taking the absolute difference between the average of the three enthusiasm 
+items ' scores for the e-store and the average of the three enthusiasm items ' 
+scores for the brand . The bigger the absolute difference , the higher the 
+incongruence and thus the lower the congruence . The e-store brand personality 
+***LOADED  incongruence scores ranged – . in genuineness , – . in 
+sophistication , – . in enthusiasm and – . in unpleasantness . Hypothesis 
+testing Structural equation modeling was run using AMOS to test the hypotheses 
+. Before running the SEM , a CFA was first conducted to examine the measurement 
+***LOADED  model of the three latent variables : e-store brand personality 
+***LOADED  incongruence , perceived e-store brand fit and e-store patronage 
+intention . The initial CFA resulted in an acceptable model fit , but produced 
+a low factor loading of the " unpleasantness incongruence"indicator for the 
+e-store brand personality ***LOADED  incongruence factor . Given that this 
+indicator reflects the only negatively-worded personality ***LOADED  dimension 
+, its lack of convergent validity was not surprising . Thus , another CFA was 
+run after eliminating the unpleasant incongruence indicator , which resulted in 
+a good fit . To assess the convergent validity of the measurement ***LOADED  
+model , the values of factor loadings , AVE and CR have been reviewed . The AVE 
+of one factor , e-store brand personality ***LOADED  incongruence , was below 
+the recommended threshold of . . However , literature guides that a scale can 
+be considered as adequate if other measures support convergent validity because 
+AVE is more conservative compared to other measures , and thus CR and factor 
+loadings were further examined . CR values were greater than . for all factors 
+including e-store brand personality ***LOADED  incongruence , indicating their 
+convergent validity . All factor loadings were statistically significant , and 
+their estimated values were within the acceptable range for all indicators 
+except for the sophistication incongruence indicator , which was still above 
+the threshold factor loading of . . Literature suggests that indicators with 
+factor loadings between . and . can remain in the model if they contribute to 
+content validity . All AVEs were larger than all of the squared factor 
+correlations , which established the discriminant validity among the factors . 
+Finally , the internal consistency of all of the factors was established 
+through the high CR values and Cronbach 's αs greater than . . Latent variable 
+AVE and squared factor correlationa ABC CR Cronbach 's α E-store brand 
+incongruence . . . E-store/brand fit . . . . E-store patronage . . . . . Note : 
+a The italic numbers in diagonal cells are AVEs , while those in the 
+off-diagonal cells are squared factor correlations Table . Measurement 
+***LOADED  model CFA results : AVEs , squared factor correlations and Cronbach 
+'s αs of the latent variables E-store brand personality ***LOADED  congruence 
+The SEM model for testing hypotheses through was specified as presented in 
+Figure and run with maximum likelihood estimation method and , bootstrapping 
+samples . The fit of this SEM model was acceptable . Both H and H were 
+supported through the respective regression coefficients , which indicated that 
+e-store brand personality ***LOADED  incongruence negatively influenced 
+perceived e-store brand fit , which in turn positively influenced e-store 
+patronage intention . This result indicates that e-store brand incongruence has 
+a negative impact on e-store brand fit , while perceived e-store fit positively 
+influences e-store patronage intention . The direct path from e-store brand 
+personality ***LOADED  incongruence to e-store patronage intention was 
+non-significant in this model ; although an additional SEM model which 
+separately examined it without the perceived e-store brand fit mediator showed 
+a significant relationship between the incongruence and intention variables . 
+The indirect effect of e-store brand incongruence on e-store patronage 
+intention via perceived e-store brand fit was significant . Combined , these 
+results support H by showing evidence for the full mediation of perceived 
+e-store brand fit for the relationship between e-store brand personality 
+***LOADED  incongruence and e-store patronage intention . . - . . . . Fit Fit 
+Fit - . Perceived E-Store-Brand Fit . . . . . . . PI PI PI PI PI PI PI E-Store 
+Patronage Intention . . . Enthusiasm Incongruence Genuineness Incongruence 
+Sophistication Incongruence E-Store-Brand Personality ***LOADED  Incongruence 
+Note : p < . , p < . Figure . SEM model and results . All error terms are 
+omitted , and no error terms are correlated , To test H , multiple-group SEM 
+was conducted with the high and low self-relevance groups created by a median 
+split of perceived self-relevance factor scores . Prior to the SEM , an EFA and 
+Cronbach 's α verified the unidimensionality and internal consistency of the 
+self-relevance measure , respectively . The multiple-group SEM results revealed 
+that the relationship between perceived e-store brand fit and e-store patronage 
+intention was stronger among the high self-relevance group than among the low 
+self-relevance group . This result indicates that self-relevance significantly 
+moderates the relationship between e-store brand fit and e-store patronage 
+intention in that this relationship is more salient for consumers with high 
+self-relevance than consumers with low self-relevance . This group difference 
+was statistically supported through a chi-square difference test between this 
+model and another model with this regression coefficient restricted to be equal 
+between the high and low self-relevance groups . Thus , H was supported . 
+Further , an additional moderation test was run using multiple regression 
+analysis employing the composite score of the three perceived e-store brand fit 
+items , the composite score of the five self-relevance items and the 
+interaction term created by multiplying these two composite scores as three 
+predictors of e-store patronage intention . Results from this analysis again 
+confirmed the significant moderating effect of self-relevance by showing a 
+significant positive effect of the self-relevance fit interaction term , 
+providing additional support for H . Discussion ***LOADED  In this study , the 
+symbolic image congruence between the multichannel retail brand and its estore 
+was operationalized in terms of the personality ***LOADED  discrepancy in three 
+dimensions : enthusiasm , sophistication and genuineness . This 
+personality-based symbolic image incongruence significantly predicts the 
+consumer 's perceived e-store brand fit , or global judgment of the congruence 
+of the e-store image to the retail brand image . This result suggests 
+personality ***LOADED  , specifically the three personality ***LOADED  factors 
+, as a potential strategic dimension to control consumers ' overall e-store 
+brand fit perception . The findings ***LOADED  of this study further indicate 
+that consumers ' perceived e-store brand fit significantly influences their 
+patronage intention toward the multichannel retailer 's e-store and that this 
+fit perception is a more direct and stronger influencer of the consumer 's 
+e-store patronage intention than the e-store brand personality ***LOADED  
+congruence . This finding ***LOADED  advocates the importance of brand fit of 
+an e-store in fostering consumers ' positive relationship with the e-store and 
+suggests a critical need to delve into various additional potential factors 
+impacting perceived e-store brand fit besides e-store brand personality 
+***LOADED  incongruence examined in this study . Lastly , the findings 
+***LOADED  of this study show that the influence of e-store brand fit is far 
+greater among consumers who perceive a high self-relevance of the retail brand 
+. That is , an apparel brand 's e-store 's fit with the brand 's image matters 
+more to consumers who have liked and frequently used the brand and thus have 
+felt the brand is highly relevant to them , as compared to consumers who are 
+new to the brand or who have not liked the brand and thus feel less 
+self-relevance to the brand . Retailers ' – rule stresses the importance of 
+satisfying a small number of loyal customers who bring the most profit to the 
+retailer , who are expected to feel the most self-relevance of the retailer . 
+The findings ***LOADED  of this study clearly indicate the strategic importance 
+of maintaining an e-store well-fitting the brand image from the customer 
+relationship management ***LOADED  perspective . Theoretical implications This 
+study makes several significant contributions to the literature . First , this 
+study expands brand image congruence research to the cross-channel congruence 
+phenomenon in the E-store brand personality ***LOADED  congruence multichannel 
+retailing context . Although research on cross-channel congruence exists , 
+surprisingly little attention has been paid to the issue of cross-channel 
+symbolic image congruence , such as designing e-store interfaces to generate 
+e-store personality ***LOADED  impressions reflecting brand personality 
+***LOADED  , as compared to the cross-channel functional integration effect . 
+Further , previous studies identifying strong linkages between brand image 
+congruence and consumer behaviors have been conducted mainly in a single 
+business channel , such as the contexts of brand extension , product branding 
+and service marketing ***LOADED  . This study addresses this literature gap by 
+providing empirical evidence to suggest the critical significance of 
+personality-based cross-channel symbolic image integration of multichannel 
+apparel retailers . Second , this study examined multichannel retailers ' 
+cross-channel image congruence issues both at the global image congruence level 
+and at a specific symbolic personality ***LOADED  level . Although perceived 
+e-store brand fit is a more direct and holistic construct of congruence between 
+a multichannel retailer 's brand image and its e-store image perceived by 
+consumers , examining it alone would not provide specific actionable insights 
+on the source of this fit perception . Our findings ***LOADED  uncover the 
+intimate connection ***LOADED  of personality ***LOADED  congruence to an 
+overall e-store brand fit perception , suggesting personality ***LOADED  as a 
+critical factor in the cross-channel image congruence management ***LOADED  . 
+This study also extends the brand personality ***LOADED  and store personality 
+***LOADED  literature , which advocates the significant role of personality 
+***LOADED  congruence in attracting positive consumer response , by offering 
+empirical evidence specifically for three positive personality ***LOADED  
+dimensions that play a role in consumers ' perception of e-store brand fit and 
+e-store patronage intention . Finally , this study contributes to the cognitive 
+psychology literature as well as the image congruence literature by offering 
+empirical evidence for the role of personal relevance in the consumer 's image 
+information processing and persuasion . The significant interaction between 
+self-relevance and e-store brand fit found in this study demonstrates that 
+consumers ' judgment of the e-store brand fit has a greater impact when 
+consumers feel higher selfrelevance to the brand , which motivates them to 
+process more critically the congruence of the e-store to the retail brand image 
+to form their behavioral intention toward the e-store . This finding ***LOADED  
+extends the applicability of the elaboration likelihood model , which predicts 
+the role of relevance in facilitating elaborate information processing , to the 
+context of consumers ' processing of image information . Existing research in 
+image congruence has mainly focused on the direct effect of congruence between 
+the consumer 's self-image and the image of the brand or the store , such as 
+brand-self congruence , store-self congruence and the e-store-self congruence , 
+on consumer responses to the brand or the store . This study takes a unique 
+look at the relationship among the triad of the consumer , the brand and its 
+e-store by integrating the cognitive psychology perspective into the image 
+congruence perspective and provides a new insight on how the consumer 's 
+self-relevance to the brand interacts with the under-investigated image 
+congruence between the brand and its e-store to drive the consumer 's patronage 
+toward the brand 's e-store . Managerial ***LOADED  implications The current 
+study contributes practical guidelines with regard to multichannel retail 
+brands ' e-store design . First , this study reveals that enhancing 
+cross-channel image similarity , consistency , or connectedness is a key factor 
+for successful multichannel apparel retailing , and particularly the symbolic 
+image congruence in personality ***LOADED  may be key to multichannel , apparel 
+retailers ' cross-channel brand management ***LOADED  . Therefore , 
+multichannel apparel retail brand managers ***LOADED  should carefully identify 
+their brand personality ***LOADED  and integrate it into their estore interface 
+design and e-store visual merchandising to convey an estore personality 
+***LOADED  that is consistent with the retail brand 's personality ***LOADED  . 
+Second , this study shows that a mismatch between a consumer 's existing 
+perceptions of the retailer 's brand personality ***LOADED  negatively impacts 
+perceived image fit between the brand and its e-store and eventually may harm 
+patronage intention for the retailer 's e-store , especially among the retailer 
+'s target consumer group , who may feel the mismatch more acutely than 
+consumers who do not see the retailer has much to offer them . New customers , 
+who are not well aware of the brand 's image and thus have not formed a sense 
+of self-relevance to the brand , may not be bothered by an image misfit of the 
+e-store to the brand . However , the misfit between the brand image and the 
+e-store image may have a detrimental impact on loyal customers who feel high 
+relevance of the brand to themselves , which may lead to harming the customers 
+' relationships with the brand and discouraging them from using the brand 's 
+estore . Given that apparel brands always strive to enhance their relevance to 
+their target customers and maintain their relevance to their loyal customers , 
+the findings ***LOADED  of this study lend a critical implication for the 
+importance of designing and executing a brand 's e-store with their target 
+and/or loyal customers ' perceived image of the brand in mind . Brands need to 
+manage ***LOADED  target consumers by offering consistent and meaningful 
+***LOADED  brand associations to induce a high image fit . Further , brands 
+need to increase their level of relevance to the target customer by examining 
+their needs and wants continuously to satisfy their expectations and achieve a 
+stronger brand loyalty . In conclusion , a lack of image congruence caused by 
+personality ***LOADED  mismatches between the retail channels can potentially 
+result in a detrimental feedback effect on the retail brand image by diluting 
+the true identity of the retailer in the consumer 's minds . Therefore , the 
+seamless cross-channel integration using intangible symbolic image congruence , 
+such as personality ***LOADED  congruence , must be carefully executed for 
+multichannel retail branding . Retailers should view multichannel retailing 
+strategies from an integrated brand management ***LOADED  perspective so that 
+their customers can have a unified shopping ***LOADED  experience , consistent 
+and effective , across multiple channels both symbolically and functionally . 
+The symbolic integration through shared personality ***LOADED  and other 
+self-expressive benefits as well as the functional integration focusing on 
+consistency in tangible attributes between channels should be assured for 
+successful multichannel branding . Limitations and recommendations Findings 
+***LOADED  from this study should be understood with caution in light of the 
+following limitations . First , this study focuses on the cross-channel image 
+congruence from the symbolic image perspective . In doing so , the potential 
+congruence dimensions from the functional image perspective were not included 
+in this study . Further , among many potential symbolic image dimensions , this 
+study focuses only on the personality-based image by examining the e-store 
+brand personality ***LOADED  congruence in the three personality ***LOADED  
+dimensions . In addition , the e-store brand personality ***LOADED  
+incongruence factor had a low AVE , which may raise a convergent validity 
+concern although CR and factor loadings were acceptable . Therefore , future 
+research is recommended to pursue E-store brand personality ***LOADED  
+congruence more comprehensive insights on the cross-channel image congruence 
+effects in various symbolic and functional image dimensions and use more valid 
+assessment methods for symbolic image congruence . Second , although 
+self-relevance has been incorporated in this study as a moderator , a 
+perception of self-relevance of a retail brand may stem from many specific 
+factors of the retailer or the consumer ; therefore , future research 
+addressing how different factors of self-relevance may moderate the 
+relationship between e-store brand fit and e-store patronage is recommended to 
+generate clearer insights to help businesses to connect with consumers . 
+Further , results of this study might have been impacted by additional 
+potential confounding variables , such as consumers ' level of different brand 
+associations , including prior brand knowledge ***LOADED  , experience , or 
+familiarity with the brand/e-store and their personality ***LOADED  or shopping 
+***LOADED  tendencies , which were unaccounted for in this study . Future 
+research with the inclusion of these potential confounding variables as 
+moderators may provide valuable insights on how consumers ' sensitivity to the 
+crosschannel image congruence effect may vary depending on levels of the 
+moderators . Last , because the sample consisted of only female consumers from 
+certain age groups , the findings ***LOADED  may not be generalized to other 
+populations . Further , although care was taken to use brands representing a 
+variety of personality ***LOADED  characteristics in this study , the 
+generalizability beyond the six apparel retailers used in this study may be 
+limited . Future research is recommended to extend this study to other 
+populations and to e-store contexts of other brands or other product categories 
+, so that the external validity of the findings ***LOADED  can be enhanced . 
+Further , this study included only the e-store channel to examine the brand 
+image congruence effect . Additional research delving into image congruence 
+across more diverse retail channels , such as mobile commerce , voice-commerce 
+and social media , may offer more comprehensive insights into the cross-channel 
+image congruence issue for strategic omnichannel branding .  
