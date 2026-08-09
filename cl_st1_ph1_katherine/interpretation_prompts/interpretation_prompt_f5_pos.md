@@ -28,7 +28,7 @@ In your interpretation, use three sources of evidence:
 3. **High-scoring examples**
   - Use [High-scoring example excerpts in this pole](#high-scoring-example-excerpts-in-this-pole) as qualitative evidence.
   - Notice which loading words occur in the examples and how they function in context.
-  - Give the examples equal interpretive attention, but remember that they are a limited set of high-scoring samples, whereas the loadings represent the full analysed subcorpus.
+  - Give the examples equal interpretive attention, but remember that they are a limited set of high-scoring samples, whereas the loadings represent the full analysed target corpus.
 
 Your response should include the following elements and be formatted in Markdown:
 

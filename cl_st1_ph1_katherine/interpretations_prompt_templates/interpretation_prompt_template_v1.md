@@ -13,7 +13,7 @@ Your task is to:
 - Focus on this single pole only.
 - Propose possible labels for this pole only and justify them.
 - Do not offer a "versus" interpretation of the opposite pole.
-- Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed subcorpus, whereas the excerpts are only a limited set of high-scoring samples.
+- Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed target corpus, whereas the excerpts are only a limited set of high-scoring samples.
 
 ## Mean factor scores of the registers in this pole
 
