@@ -6,7 +6,7 @@ You are a Corpus Linguist specialising in Lexical Multi-Dimensional Analysis (LM
 
 The target corpus consists of selected fashion-related texts organised by register, as described in [Mean factor scores of the registers in this pole](#mean-factor-scores-of-the-registers-in-this-pole).
 
-Your task is to interpret **factor <to_be_defined>**, **<positive/negative> pole** as a *discourse dimension*. By *discourse dimension* we mean identifying the *ideological discourses* underlying this pole.
+Your task is to interpret **factor 5**, **positive pole** as a *discourse dimension*. By *discourse dimension* we mean identifying the *ideological discourses* underlying this pole.
 
 Focus on this pole only. Do not provide a "versus" interpretation of the opposite pole.
 
@@ -58,11 +58,34 @@ Mention any uncertainty, sparse evidence, mixed evidence, or limitations in the 
 
 ## Mean factor scores of the registers in this pole
 
-<to_be_defined>
+**R-Square:** 0.157713
+
+| Registers | Number of texts |       Mean |    Std Dev |
+|-----------|----------------:|-----------:|-----------:|
+| acad      |             368 | 0.26086957 | 0.74364981 |
+| blog      |             288 | 0.56250000 | 1.66211632 |
+| book      |              31 | 3.61290323 | 2.82462292 |
+| docu      |              96 | 0.72916667 | 1.31772664 |
+| fb        |             675 | 0.04000000 | 0.34434818 |
+| fiction   |              36 | 2.58333333 | 0.87423436 |
+| film      |              27 | 0.74074074 | 0.85900625 |
+| insta     |             583 | 0.02572899 | 0.27686905 |
+| magz      |             613 | 0.53670473 | 1.34942746 |
+| news      |             349 | 0.27507163 | 0.94320486 |
+| song      |              33 | 0.18181818 | 0.72691753 |
+| tuto      |             300 | 0.62333333 | 1.36907638 |
+| tvrad     |             126 | 0.23015873 | 0.71735847 |
+| tvse      |             159 | 0.45283019 | 0.93252151 |
+| tvsh      |             132 | 0.36363636 | 0.65699672 |
+| tw        |             872 | 0.02408257 | 0.26786194 |
+| vlog      |              18 | 0.38888889 | 0.91644382 |
+| web       |             323 | 0.29411765 | 1.05303292 |
 
 ## Lexical loadings in this pole
 
-<to_be_defined>
+Variables loading on this pole = 9
+
+oil (0.50269), ingredient (0.45908), sun (0.43943), (treatment (0.43253)), fragrance (0.41309), (fuck (0.39726)), (contain (0.33785)), (kiss (0.32931)), (edition (0.31892))
 
 ## High-scoring example excerpts in this pole
 
