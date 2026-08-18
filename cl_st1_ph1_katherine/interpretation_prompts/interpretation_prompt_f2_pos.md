@@ -48,9 +48,9 @@ Explain how the high-scoring excerpts instantiate the loading pattern. Refer to 
 
 Synthesise the register, lexical, and example evidence into a coherent interpretation of this pole as a discourse dimension.
 
-## 5. Candidate labels
+## 5. Label
 
-Propose one preferred label and 2–4 alternative labels. Each label should be a concise noun phrase that captures the discourse function of the pole rather than merely naming the dominant register. Briefly justify each label.
+Propose one label. It should be a concise noun phrase that captures the discourse function of the pole rather than merely naming the dominant register. Briefly justify the label. Provide a discourse interpretation grounded in the evidence provided.
 
 ## 6. Caveats
 
